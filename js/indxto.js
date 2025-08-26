@@ -1,5 +1,5 @@
 function f1(){
-    alert("謝謝蛋蛋幫我省錢 ! !") 
+    alert("謝謝豬豬幫我省錢 ! !") 
   } 
   var flag=1;
   function f(){ 
@@ -29,4 +29,5 @@ function f1(){
   }
   function f2(){
     alert('这不是你的真心话！');
+
   }
